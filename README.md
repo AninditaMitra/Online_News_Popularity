@@ -1,1 +1,3 @@
-# Online_News_Popularity
+# Online News Popularity
+
+In this project, using a dataset of 39643 news stories from the website Mashable, we tried to identify the most straightforward categorization learning method to determine whether a news story will become popular or not. Our study shows that using different classification algorithms—such as Naive Bayes, Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), other unsupervised learning techniques (PCA), and Cost-Matrix —give different results when predicting news popularity using tweets on social media platforms based on their shares and hashtags used during different days of the week.
